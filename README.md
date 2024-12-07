@@ -11,7 +11,7 @@ The main goal was to create a clean and maintainable codebase using a React fram
 
 ### Styling
 
-For styling, I used TailwindCss. This choice allows for efficient styling and theming, especially for implementing the dark/light mode feature.
+For styling, I used tailwindcss. This choice allows for efficient styling and theming, especially for implementing the dark/light mode feature.
 
 ## Assumptions
 
@@ -25,8 +25,7 @@ For styling, I used TailwindCss. This choice allows for efficient styling and th
 
 ### Steps
 
-1. Clone the repository:
-   git clone https://github.com/omekra/cake-theme-switcher
-   cd cake-theme-switcher
-   npm install
-   npm start
+1. Clone the repository: git clone https://github.com/omekra/cake-theme-switcher
+2. cd cake-theme-switcher
+3. npm install
+4. npm start
